@@ -1,5 +1,5 @@
 # gonnection
-Crime &amp; Disaster Prevention application. Connective vulnerable people to Help.
+Crime &amp; Disaster Prevention application. Connecting vulnerable people to Help.
 ---------------------------------------------------------------
 ## MEANING OF NAME GONNECTION
 Replacing C of Connection by G.
