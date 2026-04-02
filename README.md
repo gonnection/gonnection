@@ -12,11 +12,12 @@ Replacing C of Connection by G.
 After the Tushar Mehata case in January 2026.
 ---------------------------------------------------------------
 
-## VISION, VALUES, MISSION & OBJETIVE
-1. VISION
+## PHILSOPHY, VALUES, VISION, MISSION & OBJETIVE
+1. PHILOSOPHY
 2. VALUES
-3. MISSION
-4. OBJECTIVES
+3. VISION
+4. MISSION & OBJECTIVES
+5. MOTIVATION :- CASE OF NIRBHAYA, ATUL SUBHASH, SHARMA, MOHIT YADAV & NOIDA AND DELHI NEGLIGENCE 2026
 
 ------------------------------------------------------------------
 ## PRODUCT GUIDE
