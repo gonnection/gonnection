@@ -13,7 +13,7 @@ Replacing C of Connection by G.
 After the Tushar Mehata case in January 2026.
 ---------------------------------------------------------------
 
-## PHILSOPHY, VALUES, VISION, MISSION & OBJETIVE
+## PHILSOPHY, VALUES, VISION, MISSION & MOTIVATION
 1. PHILOSOPHY
 2. VALUES
 3. VISION
