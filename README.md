@@ -1,6 +1,7 @@
 # 37 & GCP
 # gonnection
-
+PHILOSOPHY : 
+Primary mission :Crime & Disaster Prevention application. Connecting vulnerable people to Help. 
 ---------------------------------------------------------------
 ## MEANING OF NAME GONNECTION
 Replacing C of Connection by G.
