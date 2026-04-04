@@ -1,3 +1,4 @@
+# 37 & GCP
 # gonnection
 Crime &amp; Disaster Prevention application. Connecting vulnerable people to Help.
 ---------------------------------------------------------------
@@ -25,3 +26,5 @@ After the Tushar Mehata case in January 2026.
 2. DIFFRENT CATEGORIES OF CRIMES & DIASTER
 ---------------------------------------------------------------------
 ## CC, IP & PROMISE: WHATEREVER IS WRITTTEN IS INTELLECTUAL PROPERTY OF EE, SHA, FTL, U, RI [ENGINEERS ECHELON, SHASTRARTHA, FREEDOM TO LIBERTY, UNBIASED & RETALIATOR IMMORTAL]. IF YOU ARE USING THE IDEAS FOR TEACHING THEN JUST GIVE CREDIT BUT IF YOU ARE MAKING PROFIT FROM IT THEN SIGN A CONTRACT WITH GOBOT.
+---------------------------------------------------------------------
+# 37 & GCP
