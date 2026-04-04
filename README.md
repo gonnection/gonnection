@@ -10,7 +10,7 @@ Replacing C of Connection by G.
 
 --------------------------------------------------------------
 ## INCIDENTS THAT THIS SOFTWARE WANTS TO PREVENT
-After the Tushar Mehata case in January 2026.
+Engineering in pace After the Tushar Mehata case in January 2026.
 ---------------------------------------------------------------
 
 ## PHILSOPHY, VALUES, VISION, MISSION & MOTIVATION
