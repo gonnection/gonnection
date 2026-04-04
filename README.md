@@ -1,6 +1,6 @@
 # 37 & GCP
 # gonnection
-Crime &amp; Disaster Prevention application. Connecting vulnerable people to Help.
+
 ---------------------------------------------------------------
 ## MEANING OF NAME GONNECTION
 Replacing C of Connection by G.
@@ -18,7 +18,10 @@ After the Tushar Mehata case in January 2026.
 2. VALUES
 3. VISION
 4. MISSION & OBJECTIVES
-5. MOTIVATION :- TIWARI MISCARRIAGE OF JUSTICE, CASE OF NIRBHAYA, ATUL SUBHASH, SHARMA, MOHIT YADAV & NOIDA (YURAJ MEHATA) AND DELHI NEGLIGENCE 2026
+Primary mission :Crime &amp; Disaster Prevention application. Connecting vulnerable people to Help.
+Secondadary mission :
+Tertiary mission :
+6. MOTIVATION :- TIWARI MISCARRIAGE OF JUSTICE, CASE OF NIRBHAYA, ATUL SUBHASH, SHARMA, MOHIT YADAV & NOIDA (YURAJ MEHATA) AND DELHI NEGLIGENCE 2026
 
 ------------------------------------------------------------------
 ## PRODUCT GUIDE
